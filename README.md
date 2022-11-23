@@ -1,2 +1,2 @@
 # Telegram_bot
-A Course bot in telegram
+A Telegram bot for Course recommendation
