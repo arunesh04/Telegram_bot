@@ -3,7 +3,7 @@ from flask import request
 from flask import Response
 import requests
 
-TOKEN = "5598309398:AAE-6HBjxk_Urpavf1NtY4tCF_p-Yr320VQ"
+TOKEN = "#your_token"
  
 app = Flask(__name__)
  
